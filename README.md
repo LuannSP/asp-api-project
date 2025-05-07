@@ -1,4 +1,4 @@
-# ASP.NET Core Web API Project
+# ASP.NET Core Web API
 
 Este repositório contém um projeto de API RESTful desenvolvido com ASP.NET Core, utilizando o Visual Studio 2022. O projeto já vem configurado com autenticação via JWT e documentação interativa com Swagger.
 
